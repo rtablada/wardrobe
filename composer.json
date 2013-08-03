@@ -1,4 +1,16 @@
 {
+	"authors": [
+		{
+			"name": "Eric L Barnes",
+			"email": "eric@ericlbarnes.com",
+			"role": "Developer"
+		},
+		{
+			"name": "Ryan Tablada",
+			"email": "ryan.tablada@gmail.com",
+			"role": "Developer"
+		}
+	],
 	"require": {
 		"laravel/framework": "4.0.*",
 		"dflydev/markdown": "1.0.*@dev",
