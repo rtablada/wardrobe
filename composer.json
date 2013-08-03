@@ -1,4 +1,11 @@
 {
+	"name": "wardrobe/wardrobe",
+	"description": "A Minimal Blog App",
+	"keywords": [
+		"blog",
+		"laravel",
+		"cms"
+	],
 	"authors": [
 		{
 			"name": "Eric L Barnes",
@@ -42,5 +49,6 @@
 	"config": {
 		"preferred-install": "dist"
 	},
-	"minimum-stability": "dev"
+	"minimum-stability": "dev",
+	"license": "MIT"
 }
